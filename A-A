@@ -1,0 +1,37 @@
+<index class="html"></index>
+<!doctype html>
+<html lang ="en">
+    <head>
+        <meta charset ="UTF-8">
+        <title>Hello My Sweet Cheeks</title>
+<form >
+  <div>
+    <input type="name" id="name" placeholder="Name" required>
+    <align="centre">
+ </div>
+
+  
+  <button type="submit">Submit</button>
+</form>
+
+<link rel="stylesheet" href="style.css">
+<body>
+---
+ Hey Anusha,
+
+Just wanted to take a moment to remind you how amazing you are. Your kindness, strength, and the way you light up any room with your presence—it’s truly inspiring. Life feels a little brighter with you in it, and I’m so grateful to call you my friend.
+
+Whether it’s your laugh, your wisdom, or the way you always show up for the people you care about, you have a way of making the world feel more beautiful just by being yourself. Never doubt your worth, your magic, or the impact you have on those around you.
+
+Stay golden, always.
+
+With love and gratitude,
+Abhra
+
+
+---
+<hr>
+<p>Here is a picture of us :) </p>
+<img src ="C:\Users\Dell\Pictures\Pujo 2k24\DSC00025_edited.jpg" title="A-A" alt="Anusha" width="350" height="400">
+</body>
+</html>
